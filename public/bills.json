@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "bill_type": "gas",
+      "icon": "https://i.ibb.co.com/DfkWyVDm/6.jpg",
+      "organization": "Karnaphuli Gas",
+      "amount": 1320,
+      "due-date": "2025-03-22T06:57:58.110Z"
+    },
+    {
+      "id": 2,
+      "bill_type": "internet",
+      "icon": "https://i.ibb.co.com/d09HGzZz/5.jpg",
+      "organization": "Link3",
+      "amount": 1150,
+      "due-date": "2025-03-25T06:57:58.110Z"
+    },
+    {
+      "id": 3,
+      "bill_type": "water",
+      "icon": "https://i.ibb.co.com/MD40Pcg8/4.jpg",
+      "organization": "WASA",
+      "amount": 780,
+      "due-date": "2025-03-28T06:57:58.110Z"
+    },
+    {
+      "id": 4,
+      "bill_type": "electricity",
+      "icon": "https://i.ibb.co.com/rRPsbw5N/3.jpg",
+      "organization": "NESCO",
+      "amount": 1625,
+      "due-date": "2025-04-02T06:57:58.110Z"
+    },
+    {
+      "id": 5,
+      "bill_type": "electricity",
+      "icon": "https://i.ibb.co.com/XxPkngs6/2.jpg",
+      "organization": "DESCO",
+      "amount": 1980,
+      "due-date": "2025-04-06T06:57:58.110Z"
+    },
+    {
+      "id": 6,
+      "bill_type": "electricity",
+      "icon": "https://i.ibb.co.com/dJbtfBqb/1.jpg",
+      "organization": "Palli Bidyut",
+      "amount": 1430,
+      "due-date": "2025-04-10T06:57:58.110Z"
+    }
+  ]
+  
